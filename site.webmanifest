@@ -1,0 +1,23 @@
+   {
+    "name": "UltraGoodies",
+    "short_name": "UltraGoodies",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-UbvGqtWJdmY/YceYuBW6EQI/AAAAAAAAA7Y/cN0GskbrJq0XESTBwJE4zqQww8sstY2_gCNcBGAsYHQ/s220/apple-touch-icon.PNG",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-UbvGqtWJdmY/YceYuBW6EQI/AAAAAAAAA7Y/cN0GskbrJq0XESTBwJE4zqQww8sstY2_gCNcBGAsYHQ/s512/apple-touch-icon.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.ultragoodies.in"
+}

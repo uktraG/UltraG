@@ -17,7 +17,7 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "minimal-ui",
+    "display": "fullscreen",
     "prefer_related_applications": false,
   "start_url": "https://www.ultragoodies.in"
 }
